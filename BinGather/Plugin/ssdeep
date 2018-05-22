@@ -1,5 +1,0 @@
-#!/bin/bash
-
-content=$(ssdeep -b "$1")
-echo $content
-
